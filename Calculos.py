@@ -12,3 +12,4 @@ km_total += km_media
 print(km_total)
 
 #print(km_media)
+
